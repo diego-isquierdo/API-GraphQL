@@ -43,11 +43,16 @@
       "role": 2
     },
     {
+      "id": 7,
       "name": "Diego",
       "active": true,
-      "email": "teste@teste",
-      "role": 2,
-      "id": 7
+      "email": "teste@teste"
+    },
+    {
+      "id": 8,
+      "name": "Joao",
+      "active": true,
+      "email": "teste@teste"
     }
   ],
   "roles": [
