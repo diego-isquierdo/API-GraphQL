@@ -76,13 +76,6 @@
       "id": 11
     },
     {
-      "name": "Ana C",
-      "active": true,
-      "role": 3,
-      "createAt": "2022-02-13T00:00:00.000Z",
-      "id": 12
-    },
-    {
       "role": 3,
       "id": 13
     }
